@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End, UX Projects and similars
 - 🌱 I’m currently learning front-end techniquies, react and python.
 - 💞️ I’m looking to collaborate on UX projects, already have experience working with.
-- 📫 How to reach me, by instagram fgorelli.art ;)
+- 📫 How to reach me, by instagram figorelli.art ;)
 
 <!---
 Dom-Figorelli/Dom-Figorelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
